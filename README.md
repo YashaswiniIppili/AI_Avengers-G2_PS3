@@ -6,6 +6,15 @@ Video Link : https://drive.google.com/drive/folders/1t8od7b7FEhIDgUu-O-yqm83ofaA
 
 ## URL Scraper and Summarizer
 
+## Problem Statement 
+
+G2 regularly updates its website with new products by creating new categories and
+refining existing ones. One crucial aspect of this process is ensuring that each product has
+a precise description and URL before it is added to the site. We are interested in
+automating the process of updating product descriptions in our database. We will provide
+you with a few product URLs, and your output will be a brief 3-4 lines description of each
+product.
+
 ## Description
 
 The URL Scraper and Summarizer is a tool that allows users to scrape text data from web pages based on the URLs provided and generate concise summaries of the products mentioned on those web pages. The scraped data is processed, cleaned, and sent as input to a Large Language Model (LLM), which generates summaries for each product mentioned in the entered URLs.
