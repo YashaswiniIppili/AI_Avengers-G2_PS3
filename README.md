@@ -35,11 +35,10 @@ To use the URL Scraper and Summarizer:
 
 ## Examples
 
+![image](https://github.com/YashaswiniIppili/AI_Avengers-G2_PS3/assets/92773216/2983f39c-cf8a-4f8e-9c02-582038fd6dde)
+
+
 ![image](https://github.com/YashaswiniIppili/AI_Avengers-G2_PS3/assets/92773216/751fc0e9-0e3e-4db1-b7e3-11793dd303a4)
-
-![image](https://github.com/YashaswiniIppili/AI_Avengers-G2_PS3/assets/92773216/d57cd098-f940-4fe3-ba40-455021659c57)
-
-
 
 
 ## Contact
