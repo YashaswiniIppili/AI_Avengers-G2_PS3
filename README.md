@@ -29,7 +29,7 @@ The URL Scraper and Summarizer is a tool that allows users to scrape text data f
 To install the URL Scraper and Summarizer, follow these steps:
 
 1. Clone the repository: git clone https://github.com/yourusername/url-scraper-summarizer.git
-2. Run G2PS3.ipynb on colab with T4.
+2. Run G2PS3.ipynb on colab with T4 on Google Colab.
 3. Make sure you create a directory named "G2" under content (folder icon on the left panel)
 
 ## Usage
@@ -37,7 +37,7 @@ To install the URL Scraper and Summarizer, follow these steps:
 To use the URL Scraper and Summarizer:
 
 1. Enter the URLs of the web pages you want to scrape in the input field. (Gradio interface)
-2. Click the "Scrape" button to initiate the scraping process.
+2. Click the "Submit" button to initiate the scraping process.
 3. Once the scraping is complete, the summaries for each product mentioned in the entered URLs will be displayed.
 
 ## Examples
