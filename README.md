@@ -17,6 +17,8 @@ product.
 
 The URL Scraper and Summarizer is a tool that allows users to scrape text data from web pages based on the URLs provided and generate concise summaries of the products mentioned on those web pages. The scraped data is processed, cleaned, and sent as input to a Large Language Model (LLM), which generates summaries for each product mentioned in the entered URLs.
 
+![image](https://github.com/YashaswiniIppili/AI_Avengers-G2_PS3/assets/107344920/95f733c6-71fe-40b1-b535-911460f9e5e8)
+
 ## Features
 
 - Scrapes text data from web pages based on user-provided URLs.
