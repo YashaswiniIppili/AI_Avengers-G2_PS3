@@ -50,5 +50,5 @@ To use the URL Scraper and Summarizer:
 
 ## Contact
 
-For questions, feedback, or further assistance, contact us at yashaswini.ippili@gmail.com
+For questions, feedback, or further assistance, contact us at yashaswini.ippili@gmail.com, revanthreddy0403@gmail.com
 
